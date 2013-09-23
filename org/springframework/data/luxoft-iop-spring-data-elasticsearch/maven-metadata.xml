@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>org.springframework.data</groupId>
-  <artifactId>spring-data-elasticsearch</artifactId>
+  <artifactId>luxoft-iop-spring-data-elasticsearch</artifactId>
   <versioning>
     <versions>
       <version>1.0.0.BUILD-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20130923131417</lastUpdated>
+    <lastUpdated>20130923134752</lastUpdated>
   </versioning>
 </metadata>
