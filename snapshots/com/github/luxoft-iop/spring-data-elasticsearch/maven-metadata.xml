@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.luxoft-iop</groupId>
+  <artifactId>spring-data-elasticsearch</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0.BUILD-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20131027090930</lastUpdated>
+  </versioning>
+</metadata>
